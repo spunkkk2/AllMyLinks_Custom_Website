@@ -10,9 +10,14 @@ env/
 visits.json
 analytics.json
 views.txt
+vapid_private.pem
+push_subscriptions.json
 
 # IDE / OS
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Local deployment config
+.digitalocean-deploy.json
