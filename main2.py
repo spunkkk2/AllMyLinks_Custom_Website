@@ -403,6 +403,7 @@ h1 {
 .tiktok { color: #000000; }
 .youtube { color: #FF0000; }
 .snapchat { color: #FFFC00; text-shadow: 0 0 3px #000; }
+.github { color: #ffffff; }
 
 .right {
     text-align: right;
@@ -489,8 +490,17 @@ h1 {
             </div>
         </a>
 
+        <a href="https://github.com/spunkkk2" class="link" style="--i:4" target="_blank">
+            <div class="left">
+                <i class="fab fa-github icon github"></i>
+                GitHub
+            </div>
+            <div class="right">
+                Personal Account
+            </div>
+        </a>
 
-        <a href="https://ngl.link/spunkkk2" class="link" style="--i:4" target="_blank">
+        <a href="https://ngl.link/spunkkk2" class="link" style="--i:5" target="_blank">
     <div class="left">
         <i class="fas fa-comment-dots" style="color:#ff4d6d;"></i>
         NGL
@@ -502,7 +512,7 @@ h1 {
 </a>
 
 
-        <a href="https://steamcommunity.com/id/spunkkk2/" class="link" style="--i:5">
+        <a href="https://steamcommunity.com/id/spunkkk2/" class="link" style="--i:6">
             <div class="left">
                 <i class="fab fa-steam icon" style="color:#2596be;"></i>
                 Steam
@@ -512,7 +522,7 @@ h1 {
             </div>
         </a>
 
-        <a href="https://x.com/spunkkk" class="link" style="--i:6">
+        <a href="https://x.com/spunkkk" class="link" style="--i:7">
             <div class="left">
                 <i class="fab fa-x-twitter icon twitter"></i>
                 Twitter
@@ -522,7 +532,7 @@ h1 {
             </div>
         </a>
 
-        <a href="https://www.threads.com/@spunkkk2" class="link" style="--i:7">
+        <a href="https://www.threads.com/@spunkkk2" class="link" style="--i:8">
             <div class="left">
                 <i class="fa-brands fa-threads icon" style="color:#000;"></i>
                 Threads
@@ -532,7 +542,7 @@ h1 {
             </div>
         </a>
 
-        <a href="https://wa.me/962789995251" class="link" style="--i:8" target="_blank">
+        <a href="https://wa.me/962789995251" class="link" style="--i:9" target="_blank">
         <div class="left">
         <i class="fab fa-whatsapp icon" style="color:#25D366;"></i>
         WhatsApp
